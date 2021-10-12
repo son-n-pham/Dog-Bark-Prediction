@@ -1,0 +1,6 @@
+IPython
+librosa
+libsndfile1
+matplotlib
+keras==2.3.1
+pandas
