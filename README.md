@@ -10,3 +10,8 @@ Requirements:
 - librosa
 - libsndfile1
 - keras==2.3.1
+
+
+Install Python 3.7
+https://www.alauda.ro/2019/01/how-to-install-python-3-7-on-raspberry-pi/
+
